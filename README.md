@@ -5,7 +5,12 @@
 
 Full-stack developer with a backend focus. I build web apps with **Laravel**, **React (Inertia.js)**, and **PostgreSQL**, and I look after the server side when something breaks: security incidents, hosting, and maintenance.
 
-🌐 [**yushika.my.id**](https://yushika.my.id) · 📄 [CV](https://yushika.my.id/cv) · 💼 [LinkedIn](https://www.linkedin.com/in/yusuf-novandra-74705731a) · 📫 kirainova11@gmail.com
+<p>
+<a href="https://yushika.my.id"><picture><source media="(prefers-color-scheme: light)" srcset="assets/btn-portfolio-light.svg"><img src="assets/btn-portfolio-dark.svg" alt="Portfolio: yushika.my.id" height="40"></picture></a>
+<a href="https://yushika.my.id/cv"><picture><source media="(prefers-color-scheme: light)" srcset="assets/btn-cv-light.svg"><img src="assets/btn-cv-dark.svg" alt="CV" height="40"></picture></a>
+<a href="https://www.linkedin.com/in/yusuf-novandra-74705731a"><picture><source media="(prefers-color-scheme: light)" srcset="assets/btn-linkedin-light.svg"><img src="assets/btn-linkedin-dark.svg" alt="LinkedIn" height="40"></picture></a>
+<a href="mailto:kirainova11@gmail.com"><picture><source media="(prefers-color-scheme: light)" srcset="assets/btn-email-light.svg"><img src="assets/btn-email-dark.svg" alt="Email: kirainova11@gmail.com" height="40"></picture></a>
+</p>
 
 ### What I work with
 
@@ -55,8 +60,13 @@ Full-stack developer with a backend focus. I build web apps with **Laravel**, **
   </tr>
 </table>
 
-📱 Monshika for Android: [download the latest APK](https://github.com/Irana06/monshika/releases/latest)
+<p>
+<a href="https://github.com/Irana06/monshika/releases/latest"><picture><source media="(prefers-color-scheme: light)" srcset="assets/btn-apk-light.svg"><img src="assets/btn-apk-dark.svg" alt="Download the latest Monshika APK" height="40"></picture></a>
+</p>
 
 ### Currently learning
 
-`Go` · `Flutter` · `Unity`
+<picture>
+  <source media="(prefers-color-scheme: light)" srcset="assets/learning-light.svg">
+  <img src="assets/learning-dark.svg" alt="Currently learning: Go, Flutter for mobile apps, Unity for game development" width="100%">
+</picture>

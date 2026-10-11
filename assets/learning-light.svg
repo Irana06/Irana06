@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="150" viewBox="0 0 1200 150"><rect width="1200" height="150" rx="12" fill="#f6f4ef"/><rect x=".5" y=".5" width="1199" height="149" rx="12" fill="none" stroke="#d8d3c8"/>
+<text x="40" y="38" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="16"><tspan fill="#9b2c1f">guest@yusuf:~$</tspan><tspan fill="#1d1c1a"> ls ~/learning</tspan></text><g transform="translate(40 62)"><rect width="350" height="62" rx="8" fill="#eeebe3" stroke="#d8d3c8"/>
+<circle cx="24" cy="31" r="5" fill="#9b2c1f"><animate attributeName="opacity" values="1;.25;1" dur="2s" begin="0s" repeatCount="indefinite"/></circle>
+<text x="42" y="28" font-family="Georgia, 'Times New Roman', serif" font-size="22" fill="#1d1c1a">Go</text>
+<text x="42" y="48" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#5a554c">programming language</text></g><g transform="translate(420 62)"><rect width="350" height="62" rx="8" fill="#eeebe3" stroke="#d8d3c8"/>
+<circle cx="24" cy="31" r="5" fill="#9b2c1f"><animate attributeName="opacity" values="1;.25;1" dur="2s" begin="0.5s" repeatCount="indefinite"/></circle>
+<text x="42" y="28" font-family="Georgia, 'Times New Roman', serif" font-size="22" fill="#1d1c1a">Flutter</text>
+<text x="42" y="48" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#5a554c">mobile apps</text></g><g transform="translate(800 62)"><rect width="350" height="62" rx="8" fill="#eeebe3" stroke="#d8d3c8"/>
+<circle cx="24" cy="31" r="5" fill="#9b2c1f"><animate attributeName="opacity" values="1;.25;1" dur="2s" begin="1s" repeatCount="indefinite"/></circle>
+<text x="42" y="28" font-family="Georgia, 'Times New Roman', serif" font-size="22" fill="#1d1c1a">Unity</text>
+<text x="42" y="48" font-family="ui-monospace, SFMono-Regular, Menlo, Consolas, 'Liberation Mono', monospace" font-size="13" fill="#5a554c">game development</text></g></svg>
