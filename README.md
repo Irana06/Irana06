@@ -21,6 +21,10 @@ Full-stack developer with a backend focus. I build web apps with **Laravel**, **
 
 ### Selected work
 
+<p>
+  <a href="https://github.com/Irana06/shicomp"><img src="assets/card-shicomp.webp" alt="ShikaComp: my business for website, mobile app, and server services, built with Laravel and React" width="100%"></a>
+</p>
+
 <table>
   <tr>
     <td width="50%">
