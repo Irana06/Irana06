@@ -21,10 +21,6 @@ Full-stack developer with a backend focus. I build web apps with **Laravel**, **
 
 ### Selected work
 
-<p>
-  <a href="https://github.com/Irana06/shicomp"><img src="assets/card-shicomp.webp" alt="ShikaComp: my business for website, mobile app, and server services, built with Laravel and React" width="100%"></a>
-</p>
-
 <table>
   <tr>
     <td width="50%">
@@ -36,28 +32,10 @@ Full-stack developer with a backend focus. I build web apps with **Laravel**, **
       </a>
     </td>
     <td width="50%">
-      <a href="https://yushika.my.id/#projects">
+      <a href="https://irana06.github.io/shicomp-apps/">
         <picture>
-          <source media="(prefers-color-scheme: light)" srcset="assets/card-lms-light.svg">
-          <img src="assets/card-lms-dark.svg" alt="RuangKelas LMS: school LMS built in Laravel for Script Media" width="100%">
-        </picture>
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <a href="https://yushika.my.id/#projects">
-        <picture>
-          <source media="(prefers-color-scheme: light)" srcset="assets/card-toko-light.svg">
-          <img src="assets/card-toko-dark.svg" alt="Sewa Toko Online: e-commerce rental platform built in Laravel for Script Media" width="100%">
-        </picture>
-      </a>
-    </td>
-    <td width="50%">
-      <a href="https://github.com/Irana06/portofolio-v2">
-        <picture>
-          <source media="(prefers-color-scheme: light)" srcset="assets/card-portfolio-light.svg">
-          <img src="assets/card-portfolio-dark.svg" alt="This portfolio: React and GSAP, self-hosted behind Cloudflare Tunnel" width="100%">
+          <source media="(prefers-color-scheme: light)" srcset="assets/card-otosora-light.svg">
+          <img src="assets/card-otosora-dark.svg" alt="Otosora: ad-free Android music player in Flutter" width="100%">
         </picture>
       </a>
     </td>
@@ -66,6 +44,7 @@ Full-stack developer with a backend focus. I build web apps with **Laravel**, **
 
 <p>
 <a href="https://github.com/Irana06/monshika/releases/latest"><picture><source media="(prefers-color-scheme: light)" srcset="assets/btn-apk-light.svg"><img src="assets/btn-apk-dark.svg" alt="Download the latest Monshika APK" height="40"></picture></a>
+<a href="https://irana06.github.io/shicomp-apps/"><picture><source media="(prefers-color-scheme: light)" srcset="assets/btn-otosora-light.svg"><img src="assets/btn-otosora-dark.svg" alt="Download the latest Otosora APK" height="40"></picture></a>
 </p>
 
 ### Currently learning
